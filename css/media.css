@@ -181,8 +181,8 @@
         background-size: auto 90%;
     }
 
-    .blacken {
-        background-color: rgba(1, 0, 5, 0.85);
+    .viewport.blacken {
+        background-color: rgba(1, 0, 5, 0.8);
     }
 
     .about__h2 {
